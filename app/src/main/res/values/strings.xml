@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Grawerowanie</string>
+    <string name="algorytmu_sterowania_dla_robota_dobot_magician_z_g_owic_laserow">Algorytm sterowania dla robota Dobot Magician z głowicą laserową</string>
+    <string name="tekst_do_grawerowania">Tekst do grawerowania</string>
+    <string name="graweruj">Graweruj</string>
+    <string name="napis_do_grawerowania">Napis do grawerowania</string>
+    <string name="todo">TODO</string>
+    <string name="wpisz">Wpisz</string>
+    <string name="czcionka">Wybierz wielkość czcionki twojego graweru</string>
+    <string name="send">Send</string>
+    <string name="wy_lij">Wyślij</string>
+    <string name="tw_j_tekst_zosta_przes_any_do_wygrawerowania">Twój tekst został przesłany do wygrawerowania o natępującej treści:</string>
+    <string name="zawartosc">nc</string>
+    <string name="poni_ej_wpisz_twoj_tekst_do_wygrawerowania">Poniżej wpisz Twój tekst do wygrawerowania:</string>
+    <string name="wykonanie_sebastian_laskowski">Wykonanie: Sebastian Laskowski</string>
+    <string name="IP">192.168.1.28</string>
+    <string name="Adres">Wprowadź adres Hosta. Możesz go odczytać ze skryptu</string>
+    <string name="Opis">Witaj, w tej aplkikacji możesz wprowadzić frazę do wygrawerowania za pomocą robota Dobot Magician</string>
+    <string name="powr_t_do_menu_g_wnego">Powrót do menu głównego</string>
+    <string name="ma_a_czcionka">Mała czcionka</string>
+    <string name="du_a_czcionka">Duża czcionka</string>
+    <string name="_192_168_1_28">192.168.1.28</string>
+</resources>
